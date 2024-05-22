@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Romero</h1>
 <h3 align="center">I am a Frontend Developer from Colombia </h3>
 
-- 📚 I am currently studying at ["Soy Henry" Bootcamp](https://www.soyhenry.com/?utm_source=google&utm_medium=cpc&utm_campaign=GADS_SEARCH_ARG_BRAND&utm_content=brand&gclid=CjwKCAjw77WVBhBuEiwAJ-YoJAQ8Qml2vyqfHfSi742pbrvmOqBPNI-VeVYw-znZXm5kYNqVCBraaRoCCtQQAvD_BwE)
-
-- 🌱 I’m currently learning **Typescript**
+- 📚 I am currently Working at Inswitch INC.
 
 - 💬 Ask me about **CSS,HTML,SASS,JAVASCRIPT, Frameworks, React, Redux, Node,**
 
